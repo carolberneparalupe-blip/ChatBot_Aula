@@ -1,0 +1,206 @@
+frase*,categoria*
+quero saber o limite do meu cartão de crédito,limite*
+qual é o meu limite disponível,limite*
+como solicitar um aumento de limite,limite*
+meu limite de crédito diminuiu,limite*
+quanto ainda posso gastar este mês,limite*
+gostaria de pedir mais limite,limite*
+por que meu aumento de limite foi negado,limite*
+qual o limite total do meu cartão,limite*
+como funciona a análise de limite,limite*
+posso transferir limite para outro cartão,limite*
+qual é o limite para compras online,limite*
+tenho limite emergencial disponível,limite*
+como consultar o limite pelo aplicativo,limite*
+meu limite restabeleceu após o pagamento,limite*
+quando meu limite vai aumentar,limite*
+posso usar o cartão acima do limite,limite*
+como funciona a taxa de avaliação emergencial de limite,limite*
+quero diminuir o limite do meu cartão,limite*
+qual é o meu limite para saques,limite*
+onde vejo o limite utilizado,limite*
+como ajustar o limite do cartão adicional,limite*
+qual o valor do limite pré-aprovado,limite*
+quanto tempo demora para o limite liberar,limite*
+preciso de mais limite para uma viagem,limite*
+meu limite foi bloqueado por segurança,limite*
+fatura fechou com valor incorreto,fatura*
+quando fecha a minha fatura,fatura*
+como baixar a fatura em PDF,fatura*
+não recebi a fatura no meu e-mail,fatura*
+quero ver o detalhamento da minha fatura,fatura*
+como consultar a fatura do mês anterior,fatura*
+qual o valor total da minha fatura,fatura*
+posso antecipar o pagamento da fatura,fatura*
+minha fatura veio mais alta que o normal,fatura*
+como alterar a forma de recebimento da fatura,fatura*
+onde encontro o histórico de faturas,fatura*
+minha fatura já está disponível para pagamento,fatura*
+quero cadastrar a fatura em débito automático,fatura*
+como cancelar a fatura por e-mail,fatura*
+por que tem uma cobrança desconhecida na fatura,fatura*
+qual a data de corte da minha fatura,fatura*
+como ver lançamentos futuros na fatura,fatura*
+quero o extrato da fatura impressa,fatura*
+não entendi as taxas cobradas na fatura,fatura*
+minha fatura não chegou pelos correios,fatura*
+como acompanhar os gastos da fatura em tempo real,fatura*
+posso pagar valor maior que o da fatura,fatura*
+o que acontece se eu pagar o valor mínimo da fatura,fatura*
+como gerar o boleto da fatura atual,fatura*
+como tirar a fatura atualizada,fatura*
+quando vence a minha fatura,vencimento*
+qual é o dia de vencimento do meu cartão,vencimento*
+como alterar a data de vencimento da fatura,vencimento*
+posso mudar o vencimento para o dia 10,vencimento*
+se a fatura vencer no domingo posso pagar na segunda,vencimento*
+quais são as datas disponíveis para vencimento,vencimento*
+com quanta antecedência posso trocar o vencimento,vencimento*
+o vencimento da fatura caiu no feriado,vencimento*
+quantas vezes no ano posso alterar o vencimento,vencimento*
+mudei o vencimento mas a fatura continua no dia antigo,vencimento*
+qual a melhor data de compra de acordo com o vencimento,vencimento*
+posso escolher o dia de vencimento do cartão,vencimento*
+o que acontece se alterar o vencimento hoje,vencimento*
+qual o prazo para a mudança de vencimento fazer efeito,vencimento*
+esqueci o dia do vencimento da minha fatura,vencimento*
+posso adiar o vencimento deste mês,vencimento*
+por que a data de vencimento mudou sozinha,vencimento*
+onde consulto a data de vencimento no app,vencimento*
+quero trocar o vencimento para a data do meu pagamento,vencimento*
+como confirmar a nova data de vencimento,vencimento*
+como faço para pagar a fatura com código de barras,pagamento*
+o pagamento da fatura caiu mas o limite não voltou,pagamento*
+como pagar a fatura usando PIX,pagamento*
+posso pagar a fatura com outro cartão de crédito,pagamento*
+qual a chave PIX para pagamento da fatura,pagamento*
+onde pego a linha digitável da fatura,pagamento*
+fiz o pagamento da fatura e não compensou,pagamento*
+quanto tempo demora para compensar o pagamento da fatura,pagamento*
+paguei a fatura duas vezes por engano,pagamento*
+como agendar o pagamento da fatura,pagamento*
+posso pagar a fatura na agência bancária,pagamento*
+paguei a fatura mas continua constando em aberto,pagamento*
+como enviar o comprovante de pagamento da fatura,pagamento*
+posso pagar a fatura na lotérica,pagamento*
+como funciona o pagamento avulso da fatura,pagamento*
+paguei um valor menor que o mínimo,pagamento*
+como cancelar o agendamento de pagamento da fatura,pagamento*
+onde vejo os pagamentos já realizados,pagamento*
+fiz o pagamento hoje quando o saldo é liberado,pagamento*
+pagamento via boleto demora quantos dias para compensar,pagamento*
+posso parcelar a minha fatura,parcelamento*
+quais as opções de parcelamento de fatura,parcelamento*
+como funciona o parcelamento de compras no cartão,parcelamento*
+posso antecipar as parcelas de uma compra,parcelamento*
+tem desconto se eu antecipar o pagamento de parcelas,parcelamento*
+qual o juros do parcelamento da fatura,parcelamento*
+em quantas vezes posso parcelar minha fatura,parcelamento*
+como simular o parcelamento da fatura,parcelamento*
+cancelei a compra mas as parcelas continuam caindo,parcelamento*
+como cancelar um parcelamento de fatura,parcelamento*
+o parcelamento de fatura compromete o limite,parcelamento*
+posso parcelar apenas uma parte da fatura,parcelamento*
+como antecipar parcelas com desconto no aplicativo,parcelamento*
+qual o valor mínimo de entrada para parcelar a fatura,parcelamento*
+por que não consigo parcelar minha compra em 10x,parcelamento*
+como ver quantas parcelas faltam para pagar,parcelamento*
+posso alterar o número de parcelas depois de contratar,parcelamento*
+o que é o parcelamento automático de fatura,parcelamento*
+o parcelamento cobra IOF,parcelamento*
+como quitar todas as parcelas restantes,parcelamento*
+"perdi meu cartão, o que faço",bloqueio*
+"meu cartão foi roubado, preciso bloquear",bloqueio*
+como bloquear o cartão por perda ou roubo,bloqueio*
+meu cartão foi bloqueado por perda,bloqueio*
+como fazer o bloqueio temporário do cartão,bloqueio*
+por que meu cartão foi bloqueado preventivamente,bloqueio*
+posso bloquear o cartão para compras presenciais,bloqueio*
+como bloquear compras internacionais,bloqueio*
+meu cartão foi bloqueado por tentativa de fraude,bloqueio*
+como bloquear o cartão pelo aplicativo,bloqueio*
+esqueci o cartão no caixa eletrônico e quero bloquear,bloqueio*
+quais as opções de bloqueio de segurança,bloqueio*
+"bloqueei o cartão por engano, como desfaço",bloqueio*
+como bloquear o cartão virtual,bloqueio*
+cartão bloqueado por falta de pagamento,bloqueio*
+como faço para desbloquear meu cartão,desbloqueio*
+"meu cartão novo chegou, como desbloquear",desbloqueio*
+não consigo desbloquear o cartão pelo aplicativo,desbloqueio*
+qual a senha de desbloqueio do cartão,desbloqueio*
+desbloqueio de cartão de crédito para uso no exterior,desbloqueio*
+como desbloquear a função débito do cartão,desbloqueio*
+onde desbloqueio o cartão adicional,desbloqueio*
+quanto tempo leva para desbloquear o cartão,desbloqueio*
+posso desbloquear o cartão por telefone,desbloqueio*
+como ativar meu cartão após o recebimento,desbloqueio*
+erro ao tentar desbloquear o cartão de crédito,desbloqueio*
+como desbloquear o cartão virtual recém-criado,desbloqueio*
+preciso ir ao caixa eletrônico para desbloquear o cartão,desbloqueio*
+como desbloquear a tarja magnética,desbloqueio*
+como desbloquear o recurso de aproximação,desbloqueio*
+esqueci minha senha do cartão,senha*
+como alterar a senha do cartão de crédito,senha*
+errei a senha três vezes e bloqueou,senha*
+como recuperar a senha de 4 dígitos,senha*
+onde vejo a senha do cartão no app,senha*
+posso cadastrar uma nova senha para o cartão,senha*
+como criar uma senha forte para o cartão,senha*
+esqueci a senha do aplicativo do cartão,senha*
+como desbloquear a senha incorreta,senha*
+preciso da senha do cartão para compras pela internet,senha*
+qual a diferença da senha do cartão para a senha do app,senha*
+posso trocar a senha do cartão pelo caixa eletrônico,senha*
+não recebi a senha do meu cartão pelo correio,senha*
+como redefinir minha assinatura eletrônica,senha*
+como cadastrar biometria para autorizar transações,senha*
+como faço para cancelar meu cartão,cancelamento*
+quero cancelar meu cartão definitivo,cancelamento*
+como cancelar a anuidade do cartão,cancelamento*
+posso cancelar o cartão com parcelas a vencer,cancelamento*
+como solicitar o cancelamento por telefone,cancelamento*
+como cancelar um cartão adicional,cancelamento*
+quais as consequências de cancelar o cartão de crédito,cancelamento*
+cancelei meu cartão mas ainda tenho saldo devedor,cancelamento*
+como cancelar o serviço de aviso por SMS,cancelamento*
+quero cancelar a renovação automática do cartão,cancelamento*
+como cancelar uma assinatura recorrente no cartão,cancelamento*
+cancelei o cartão e quero o estorno da anuidade,cancelamento*
+onde solicito o cancelamento no menu do aplicativo,cancelamento*
+como cancelar o seguro do cartão de crédito,cancelamento*
+o cancelamento do cartão é imediato,cancelamento*
+fui cobrado duas vezes pela mesma compra,contestacao*
+não reconheço essa compra na minha fatura,contestacao*
+como contestar um lançamento indevido,contestacao*
+"comprei e o produto não foi entregue, quero contestar",contestacao*
+qual o prazo para contestar uma compra no cartão,contestacao*
+como funciona o processo de chargeback,contestacao*
+cobrança duplicada no cartão de crédito,contestacao*
+onde vejo o andamento da minha contestação,contestacao*
+fiz o cancelamento da compra com o vendedor mas não estornaram,contestacao*
+como enviar comprovantes para contestação de compra,contestacao*
+qual o telefone do setor de contestação de compras,contestacao*
+valor debitado diferente do valor do comprovante,contestacao*
+como contestar uma compra feita pela internet,contestacao*
+recebi notificação de uma compra que não fiz,contestacao*
+como solicitar o reembolso de uma transação não autorizada,contestacao*
+quero pedir uma segunda via do cartão,segvia*
+quanto custa a segunda via do cartão de crédito,segvia*
+"meu cartão danificou, como pedir outro",segvia*
+qual o prazo de entrega da segunda via,segvia*
+como rastrear a entrega da segunda via do cartão,segvia*
+posso solicitar a segunda via pelo app,segvia*
+"meu cartão venceu, preciso de uma segunda via",segvia*
+como alterar o endereço de entrega da segunda via,segvia*
+a segunda via vem com o mesmo número,segvia*
+como solicitar nova via por perda da tarja,segvia*
+quais os benefícios do meu cartão,beneficios*
+meu cartão dá acesso a sala VIP no aeroporto,beneficios*
+como acionar o seguro viagem do cartão,beneficios*
+qual é a bandeira do meu cartão de crédito,beneficios*
+meu cartão tem proteção de preço,beneficios*
+quais os descontos parceiros do meu cartão,beneficios*
+como utilizar a garantia estendida original,beneficios*
+meu cartão tem seguro para carro alugado,beneficios*
+quais as vantagens da categoria Platinum,beneficios*
+como solicitar cartão de crédito com cashback,beneficios*

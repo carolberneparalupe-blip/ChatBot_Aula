@@ -1,0 +1,38 @@
+[
+  {
+    "categoria*": "saudação*",
+    "resposta*": "Olá! Sou o seu assistente virtual. Como posso ajudar com o seu cartão de crédito hoje?"
+  },
+  {
+    "categoria*": "limite*",
+    "resposta*": "Você pode consultar o seu limite disponível diretamente no aplicativo na opção 'Limite'. Para solicitar um aumento, acesse o menu de ajustes do cartão."
+  },
+  {
+    "categoria*": "fatura*",
+    "resposta*": "Para consultar a sua fatura atual, ver o detalhamento ou baixar o PDF, acesse a aba 'Fatura' no seu aplicativo."
+  },
+  {
+    "categoria*": "vencimento*",
+    "resposta*": "A data de vencimento da sua fatura pode ser consultada no aplicativo. Se desejar alterar o dia de vencimento, vá em Configurações > Alterar Vencimento."
+  },
+  {
+    "categoria*": "pagamento*",
+    "resposta*": "Você pode pagar a sua fatura via PIX com liberação instantânea de limite ou copiando o código de barras para pagamento no seu banco."
+  },
+  {
+    "categoria*": "parcelamento*",
+    "resposta*": "É possível parcelar a fatura diretamente pelo app na opção 'Parcelar Fatura'. Escolha o número de parcelas que melhor se adapta ao seu orçamento."
+  },
+  {
+    "categoria*": "bloqueio*",
+    "resposta*": "Em caso de perda ou roubo, você pode efetuar o bloqueio temporário ou definitivo do cartão instantaneamente na aba 'Segurança' do app."
+  },
+  {
+    "categoria*": "desbloqueio*",
+    "resposta*": "Para desbloquear o seu cartão novo, acesse o aplicativo, selecione 'Meus Cartões', escolha o cartão desejado e clique em 'Desbloquear'."
+  },
+  {
+    "categoria*": "senha*",
+    "resposta*": "Se você esqueceu sua senha de 4 dígitos, acesse 'Segurança' no aplicativo para visualizar o lembrete de senha ou solicitar a redefinição."
+  }
+]
